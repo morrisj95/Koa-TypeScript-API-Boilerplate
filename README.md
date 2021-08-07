@@ -1,6 +1,6 @@
 # Koa-TypeScript API Boilerplate
 
-Reusable Koa repo for easy setup on my porojects
+Reusable Koa repo for easy setup on my projects
 
 ## Features:
 
