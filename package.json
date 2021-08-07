@@ -50,7 +50,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "dev": "nodemon app.js"
+    "dev": "nodemon ."
   },
   "keywords": [],
   "author": "",
